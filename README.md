@@ -29,9 +29,9 @@ Currently diving deep into the world of:
 
 ### 📫 Connect with Me
 
-- 🔗 **Portfolio**: [saad9797.github.io](https://portfolio-taupe-delta-urgpg4q0sy.vercel.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/saadwaqar](https://www.linkedin.com/in/syed-saad-waqar-97167a258/) 
-- 💡 **LeetCode**: [leetcode.com/u/saad654](https://leetcode.com/u/saad654)
+- 🔗 **Portfolio**: [Portfolio](https://portfolio-taupe-delta-urgpg4q0sy.vercel.app/)
+- 💼 **LinkedIn**: [linkedin](https://www.linkedin.com/in/syed-saad-waqar-97167a258/) 
+- 💡 **LeetCode**: [leetcode](https://leetcode.com/u/saad654)
 - 📬 **Email**: waqarsaad76@gmail.com
 
 ---
