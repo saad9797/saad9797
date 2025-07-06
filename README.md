@@ -34,7 +34,6 @@ Currently diving deep into the world of:
 
 ### 📈 GitHub Stats
 
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad9797&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saad9797&layout=compact&theme=tokyonight)
 
 ---
@@ -42,7 +41,7 @@ Currently diving deep into the world of:
 ### 📫 Connect with Me
 
 - 🔗 **Portfolio**: [saad9797.github.io](https://saad9797.github.io/)
-- 💼 **LinkedIn**: [linkedin.com/in/saadwaqar](https://linkedin.com/in/saadwaqar) *(if available)*
+- 💼 **LinkedIn**: [linkedin.com/in/saadwaqar](https://linkedin.com/in/saadwaqar) 
 - 💡 **LeetCode**: [leetcode.com/u/saad654](https://leetcode.com/u/saad654)
 - 📬 **Email**: waqarsaad76@gmail.com
 
