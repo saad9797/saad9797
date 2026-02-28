@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hey, I'm Saad 👋
-### Full-Stack Developer · AI/Automation Engineer · I ship things that work.
+# Hey there! I'm Saad 👋
+
+### Full-Stack Developer · AI & Automation Enthusiast · I ship things that work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-saads-projects-ca836f9b.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/waqarsaad76@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarsaad76@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarsaad76@gmail.com)
 
 </div>
 
@@ -14,105 +15,72 @@
 
 ## About Me
 
-I'm a Full-Stack Developer based in Karachi, Pakistan, currently in my final year of BS Computer Science at NED University. I build production-ready systems for real clients — not toy projects.
+A passionate Full-Stack Developer with hands-on experience building scalable, production-ready applications for real clients. My love for coding is matched by my obsession with delivering solutions that actually work — not just on paper, but in production.
 
-Right now I'm the **sole architect and developer** of a workflow-driven Staffing CRM for a US-based client — built from scratch, deployed to production, and covering everything from multi-tenant org management to timesheet invoicing and automated email pipelines. Before that I shipped a full ATS platform, a university inventory system, an LMS with an AI chatbot, and a data warehouse with a Gemini-powered RAG layer.
+Beyond web development, I've developed a deep interest in AI and automation — integrating agentic workflows, RAG pipelines, and LLM-powered tools into the products I build. I don't just learn new technologies, I pick them up fast and put them to use immediately.
 
-Give me a stack. Give me a problem. I'll figure it out and ship it.
+I thrive in any tech stack, any domain, any challenge. Hand me a problem and I'll ship a solution.
 
 ---
 
-## What I Work With
+## Rapidfire ⚡
+
+- 🎓 Pursuing a Bachelor's Degree in Computer Science at **NED University** *(Expected 2026)*
+- 🔭 Currently building a full-scale, workflow-driven **Staffing CRM** for a US-based client
+- 🌱 Diving deep into **Agentic AI**, **LangGraph**, and **MCP Servers**
+- 💬 Ask me about anything **Full-Stack**, **AI/Automation**, or **System Design**
+- 🤝 Open to **remote opportunities** — anywhere in the world
+- ⚡ Fun fact: My code works on the first try. *(Sometimes.)*
+
+---
+
+## Languages & Tools 🛠️
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend**
-`Python` `Django` `Django REST Framework` `Node.js` `TypeScript` `Express` `REST APIs` `JWT` `OAuth`
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Frontend**
-`React.js` `JavaScript` `Tailwind CSS` `Responsive UI`
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **AI & Automation**
-`LangChain` `LangGraph` `RAG Pipelines` `MCP Servers` `n8n Workflows` `TensorFlow` `Gemini`
 
-**Databases & ORMs**
-`PostgreSQL` `MongoDB` `Prisma ORM` `pgvector` `SQL` `Star Schema / Data Warehousing`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Cloud & DevOps**
-`AWS` `Microsoft Azure` `Docker` `Railway` `Render` `Vercel` `CI/CD`
 
----
-
-## What I've Shipped
-
-### 🏢 Staffing CRM — Xeemax Digitals *(Production · US Client)*
-A full workflow-driven CRM covering the entire candidate-to-placement lifecycle. Built solo from the ground up.
-
-- Multi-tenant architecture with strict data isolation per organization
-- Complex PostgreSQL schema modelling orgs, jobs, applicants, interview rounds, assignments, timesheets & invoices
-- Node.js + TypeScript REST API with RBAC enforced at middleware level (HCM User / Manager / Contractor)
-- Configurable job system: approval workflows, evergreen jobs, interview round config, multilingual public job board
-- Automated SMTP email pipeline: notifications at every stage of the recruitment pipeline
-- Timesheet module with CSV/Excel bulk import, auto-fill from payroll files, and invoice generation with auto Bill/Pay/Markup calculation
-- E-signature integration, document & license management, AI-powered resume generator
-- React frontend with role-driven dashboards, dynamic pipeline filters, and a career page — live in production
-
----
-
-### 📚 LMS Platform
-`Django DRF` `React` `PostgreSQL` `n8n` `Railway`
-
-Full learning management system with course enrollment, assignments, and progress tracking.
-Integrated an **n8n chatbot that converts natural language to SQL** — zero-code query execution for non-technical admins. Deployed live on Railway.
-
----
-
-### 🧠 AI-Powered LMS Data Warehouse
-`PostgreSQL` `MongoDB` `Power BI` `Gemini` `RAG`
-
-ETL pipelines consolidating OLTP + MongoDB + compressed datasets into a PostgreSQL star schema.
-**Gemini-powered RAG system** for natural-language SQL querying over business KPIs.
-Power BI dashboards for revenue, user feedback, and performance analytics.
-
----
-
-### 🤖 Hybrid RAG Chatbot
-`n8n` `Supabase` `pgvector` `Google Drive` `Gemini`
-
-Plug-and-play n8n workflow: document ingestion → vector embedding → smart SQL vs. semantic query routing.
-Built on Supabase pgvector with Gemini embeddings. Drop in your docs, it just works.
-
----
-
-### 🗃️ University Inventory Management System — NED CSIT Dept.
-`Django` `DRF` `PostgreSQL` `JWT`
-
-Designed the full relational database schema (assets, categories, assignments, audit trails).
-Built secure REST APIs with JWT/OAuth. Optimized with pagination and MVC architecture.
-
----
-
-## Certifications
-
-| Certificate | Provider | Year |
-|---|---|---|
-| n8n Chatbot Lab | DataCrumbs | 2025 |
-| TensorFlow & Keras Bootcamp | OpenCV University | 2025 |
-| AWS Cloud Technology & Services | DataCamp | 2025 |
-| Understanding Cloud Computing | DataCamp | 2025 |
-
----
-
-## Education
-
-**BS Computer Science** — NED University of Engineering & Technology *(Expected 2026)*
-**A Levels** — Computer Science, Mathematics, Physics — Credo College *(2020–2022)*
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 <div align="center">
 
-**Open to remote and on-site opportunities.**
-If you need someone who can get any job done with any stack — let's talk.
+*Actively looking for new opportunities — remote or on-site.*
+*Let's build something great together.*
 
-📩 [waqarsaad76@gmail.com](mailto:waqarsaad76@gmail.com) · 📞 +92-337-8327895
+📩 waqarsaad76@gmail.com · 📞 +92-337-8327895
 
 </div>
