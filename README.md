@@ -5,9 +5,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.syedsaads.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-waqar-97167a258/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarsaad76@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.syedsaads.dev/resume)
 
 </div>
 
@@ -49,6 +48,7 @@ const saad = {
 Multi-office recruitment platform (Admin / Front Office / Back Office / Client Office) — RBAC, applicant tracking, interview scheduling, document management. Normalized Prisma schema, 25+ REST endpoints, server-side pagination and search that cut redundant API calls ~60%.
 
 `Node.js` `TypeScript` `React` `Prisma` `PostgreSQL` `Azure`
+<br/>`🔒 Private client work — architecture details on request`
 
 </td>
 <td width="50%" valign="top">
@@ -57,6 +57,7 @@ Multi-office recruitment platform (Admin / Front Office / Back Office / Client O
 Computer-vision pipeline for K-Electric detecting 7 transformer defect classes (rust, oil leakage, bloating, burn marks) from field images, with real-time bounding-box inference.
 
 `YOLOv8` `TensorFlow` `Python` `OpenCV`
+<br/>`🔒 Private client work — architecture details on request`
 
 </td>
 </tr>
@@ -67,6 +68,7 @@ Computer-vision pipeline for K-Electric detecting 7 transformer defect classes (
 Full learning management system (enrollment, assignments, progress tracking) with an n8n chatbot that turns natural language into SQL — zero-code database queries for non-technical admins.
 
 `Django REST Framework` `React` `PostgreSQL` `n8n`
+<br/>`🔒 Private client work — architecture details on request`
 
 </td>
 <td width="50%" valign="top">
@@ -75,12 +77,13 @@ Full learning management system (enrollment, assignments, progress tracking) wit
 ETL pipelines consolidating OLTP + MongoDB into a star-schema warehouse, with Gemini-powered RAG for natural-language queries and Power BI dashboards on revenue/engagement KPIs.
 
 `PostgreSQL` `MongoDB` `Power BI` `Gemini/RAG`
+<br/>`🔒 Private client work — architecture details on request`
 
 </td>
 </tr>
 </table>
 
-<div align="center"><sub>Repo links go here once pinned — see note below.</sub></div>
+<div align="center"><sub>Ask about architecture, code samples, or a walkthrough in an interview — happy to share screen recordings or a redacted code review.</sub></div>
 
 ---
 
@@ -89,19 +92,6 @@ ETL pipelines consolidating OLTP + MongoDB into a star-schema warehouse, with Ge
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,express,django,react,nextjs,tailwind,postgres,mongodb,prisma,aws,azure,docker,vercel,git&theme=dark" />
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
 
 </div>
 
