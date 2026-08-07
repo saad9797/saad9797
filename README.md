@@ -1,86 +1,66 @@
 <div align="center">
 
-# Hey there! I'm Saad 👋
+# Syed Saad Waqar
 
-### Full-Stack Developer · AI & Automation Enthusiast · I ship things that work.
+### Full-Stack Developer — Node.js / React / TypeScript · Applied AI & Automation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-saads-projects-ca836f9b.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.syedsaads.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarsaad76@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-A passionate Full-Stack Developer with hands-on experience building scalable, production-ready applications for real clients. My love for coding is matched by my obsession with delivering solutions that actually work — not just on paper, but in production.
+Full-stack developer with production experience building enterprise web applications for US-based clients. I led end-to-end development of a multi-office Staffing CRM/ATS — comparable in scope to Avionté — from PostgreSQL schema design through deployment. My core stack is Node.js, TypeScript, React, and PostgreSQL/Prisma, with applied work in AI/ML (computer vision, RAG pipelines) and workflow automation.
 
-Beyond web development, I've developed a deep interest in AI and automation — integrating agentic workflows, RAG pipelines, and LLM-powered tools into the products I build. I don't just learn new technologies, I pick them up fast and put them to use immediately.
+I care about systems that hold up in production, not just demos: clean data models, sane API design, and code a team can actually maintain.
 
-I thrive in any tech stack, any domain, any challenge. Hand me a problem and I'll ship a solution.
-
----
-
-## Rapidfire ⚡
-
-- 🎓 Pursuing a Bachelor's Degree in Computer Science at **NED University** *(Expected 2026)*
-- 🔭 Currently building a full-scale, workflow-driven **Staffing CRM** for a US-based client
-- 🌱 Diving deep into **Agentic AI**, **LangGraph**, and **MCP Servers**
-- 💬 Ask me about anything **Full-Stack**, **AI/Automation**, or **System Design**
-- 🤝 Open to **remote opportunities** — anywhere in the world
-- ⚡ Fun fact: My code works on the first try. *(Sometimes.)*
+**Currently:**
+- Building out payroll and email-automation infrastructure for a live multi-office Staffing CRM
+- Exploring agentic workflows, RAG pipelines, and MCP servers
+- Open to remote full-stack opportunities
 
 ---
 
-## Languages & Tools 🛠️
+## Highlighted Work
 
-**Languages**
+**Enterprise Staffing CRM & ATS** — Node.js · TypeScript · React · Prisma · PostgreSQL · Azure
+Multi-office recruitment platform (Admin / Front Office / Back Office / Client Office) with RBAC, applicant tracking, interview scheduling, and document management. Normalized Prisma schema, 25+ REST endpoints, server-side pagination and search.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**AI-Powered Transformer Defect Detection** — YOLOv8 · TensorFlow · Python · OpenCV
+Computer vision pipeline for K-Electric that detects 7 transformer defect classes (rust, oil leakage, bloating, burn marks, and more) from field images, with a real-time bounding-box inference module.
 
-**Backend**
+**LMS Platform with AI Chatbot** — Django REST Framework · React · PostgreSQL · n8n · Railway
+Full learning management system (enrollment, assignments, progress tracking) with an n8n-powered chatbot that translates natural language into SQL, giving non-technical admins zero-code database queries.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+**AI-Powered Data Warehouse** — PostgreSQL · MongoDB · Power BI · Gemini/RAG
+ETL pipelines consolidating OLTP and MongoDB sources into a star-schema warehouse, with Gemini-powered RAG for natural-language queries and Power BI dashboards on revenue/engagement KPIs.
 
-**Frontend**
+*(Repo links go here once pinned — see note below.)*
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
-**AI & Automation**
+## Tech Stack
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Languages:** Python · TypeScript · JavaScript (ES6+) · SQL
 
-**Databases**
+**Backend:** Node.js · Express · Django · Django REST Framework · REST APIs · JWT/OAuth2
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+**Frontend:** React · Next.js · Tailwind CSS · Material UI
 
-**Cloud & DevOps**
+**Data:** PostgreSQL · MongoDB · Prisma ORM
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**AI & Automation:** LangChain · LangGraph · RAG pipelines · TensorFlow · YOLOv8 · n8n
+
+**Cloud & DevOps:** AWS · Azure · Docker · Vercel · Railway · CI/CD
 
 ---
 
 <div align="center">
 
-*Actively looking for new opportunities — remote or on-site.*
-*Let's build something great together.*
-
-📩 waqarsaad76@gmail.com · 📞 +92-337-8327895
+Open to remote opportunities · waqarsaad76@gmail.com · +92-337-832-7895
 
 </div>
