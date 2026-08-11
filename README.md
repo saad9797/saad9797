@@ -134,13 +134,6 @@ Built a warehouse architecture for combining operational data with AI-powered na
 | 🤖 AI         | RAG, LLMs, YOLOv8, TensorFlow                  |
 | 🔄 Automation | n8n & AI-powered workflows                     |
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad9797&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad9797&hide_border=true" height="165" />
-</p>
-
 ## 🎯 Currently Exploring
 
 * 🧠 Agentic AI
