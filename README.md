@@ -1,168 +1,47 @@
-# 👋 Hey, I'm Syed Saad Waqar
+# Syed Saad Waqar
 
-### Full-Stack Developer · TypeScript · React · Node.js · PostgreSQL · AI/ML
+### Full-stack engineering · Backend systems · Practical AI
 
-<p align="left">
-  <a href="https://www.syedsaads.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/syed-saad-waqar-97167a258">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saad9797">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I build **React/TypeScript interfaces, Node.js and Python services, and PostgreSQL-backed applications**. My work spans enterprise integrations for national and international clients, independent product delivery, and AI systems connected to real workflows.
 
-## 🚀 About Me
+**[Portfolio](https://www.syedsaads.dev/) · [LinkedIn](https://www.linkedin.com/in/syed-saad-waqar-97167a258/) · [Email](mailto:waqarsaad76@gmail.com)**
 
-I'm a **Full-Stack Developer** focused on building production-grade web applications, scalable backend systems, and AI-powered products.
+## Live products I built and own
 
-Currently, I work on **enterprise software for US-based clients**, where I've helped architect and ship a **multi-office Staffing CRM/ATS** from database design to production deployment.
+| Product | What I built | Explore |
+| --- | --- | --- |
+| **Placely** | Multi-office staffing CRM/ATS with role-based workflows, applicant tracking, document handling and a 25-widget analytics dashboard. React, Node.js, TypeScript and PostgreSQL. | [placelyi.me](https://www.placelyi.me/) |
+| **Contexa** | AI context-engineering SaaS connecting codebases and databases to coding assistants. Django, React, a Node.js ingestion engine, Redis-backed jobs and seven MCP tools, with encrypted credentials, freshness checks and task-scoped context budgets. | [contexa.tech](https://www.contexa.tech/) |
 
-I enjoy working across the stack — from designing **PostgreSQL schemas and REST APIs** to building responsive React interfaces and integrating AI/automation into real-world applications.
+## Engineering experience and results
 
-```text
-🎓 BS Computer Science — NED University
-💻 Full-Stack Developer
-🏢 Enterprise Software & SaaS
-🤖 AI/ML & Automation
-☁️ Cloud & Deployment
-🔐 RBAC, Authentication & API Design
-```
+- **Enterprise full-stack delivery — SMS Group (US), through Xeemax Digitals:** sole developer of a staffing CRM/ATS, from React screens and **25+ REST APIs** to PostgreSQL/Prisma schemas, migrations and releases. Implemented JWT/RBAC across four office hierarchies and Azure Blob document integrations.
+- **Performance and debugging:** reduced redundant API calls by **approximately 60%** through server-side search and improved frontend request handling, reducing unnecessary requests and avoidable processing.
+- **Fintech — edimensionz, September 2026–present:** lead engineer for a Meezan Bank head-office client deployment, handling LDAP/Active Directory user operations across **1,200+ branches**, external integrations, issue resolution and optimized bulk user-import queries. Worked on an AI/OCR digital deposit slip portal using **FastAPI, background workers and Nginx**.
+- **Agile backend delivery — NED University project engagement:** led Django REST Framework/PostgreSQL implementation in a **five-developer team**. Authentication and cursor-pagination improvements made responses **approximately 40% faster**.
+- **Applied computer vision — K-Electric final-year project:** built a transformer Health Index pipeline using SAM, YOLOv8, ResNet-18 and Random Forest, reaching **86.7% precision and 80.2% recall across 25 experimental runs**. Integrated FastAPI inference and a React dashboard into the utility client's live ERP.
 
-## 💼 What I Build
+## Selected public work
 
-* 🏢 **Enterprise CRM / ATS platforms**
-* ⚡ **Scalable REST APIs & backend systems**
-* ⚛️ **Modern React applications**
-* 🔐 **RBAC & authentication systems**
-* 🗄️ **PostgreSQL-backed applications**
-* 🤖 **AI-powered applications & RAG pipelines**
-* 🔄 **Workflow automation with n8n**
-* ☁️ **Cloud-deployed production systems**
+| Repository | Engineering focus |
+| --- | --- |
+| [WhatsApp Sales Agent](https://github.com/saad9797/Whatsapp-Sales-Agent) | Multimodal Gemini agent, pgvector catalogue retrieval, structured actions and human handoff; asynchronous processing, idempotent webhooks and rate-limit backoff. |
+| [Hybrid RAG workflows](https://github.com/saad9797/CCP-NLP) | n8n workflows for Google Drive ingestion, Supabase pgvector retrieval, PostgreSQL querying and Gemini responses. |
+| [Transformer Health Index](https://github.com/saad9797/Transformer-Health-Dist) | Backend and frontend application code for transformer inspection and health assessment. |
+| [Contexa backend](https://github.com/saad9797/Contexa-Backend) · [frontend](https://github.com/saad9797/Contexa-Frontend) | Public development snapshots of the ingestion API and React interface. The live product has evolved beyond these snapshots. |
+| [AI data warehouse](https://github.com/saad9797/Edu-Hub) | PostgreSQL/MongoDB ETL, a star-schema warehouse, Power BI and natural-language analytics. |
+| [Folio document workspace](https://github.com/saad9797/Docs_Task) | Lab project using React, TypeScript, Express, Prisma and PostgreSQL: autosave, role-based sharing, sanitized imports and **41 automated tests**. [Live demo](https://docs-task.onrender.com/). |
 
-## 🏆 Production Experience
+## Tools I use
 
-### Enterprise Staffing CRM / ATS
+- **Frontend:** React, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, Material UI.
+- **Backend and data:** Node.js, Express, Python, Django REST Framework, FastAPI, PostgreSQL, Prisma, MongoDB and Redis.
+- **AI and automation:** LLM APIs, n8n, RAG, embeddings, Supabase pgvector, MCP, PyTorch and scikit-learn.
+- **Quality and delivery:** Git/GitHub, Docker images and containers, GitHub Actions, Nginx, Playwright and Selenium. I use containerized demo environments to test complete applications and enterprise identity integrations.
 
-Architected and developed a production **multi-office Staffing CRM/ATS** for a US-based client.
+## Background
 
-**Built across the entire stack:**
+**BS Computer Science, NED University of Engineering & Technology (2022–2026).**  
+**96.7th percentile — top 3.3% nationally**, National Skill Competency Test, 2024.
 
-`PostgreSQL` → `Prisma` → `Node.js` → `Express` → `TypeScript` → `React` → `MUI` → `Azure` → `Railway` → `Vercel`
-
-### Key Engineering Work
-
-* 🏗️ Designed normalized PostgreSQL database architecture using Prisma
-* 🔐 Implemented JWT-based RBAC across multiple organizational roles
-* 📊 Built role-driven dashboards with **25+ dynamic widgets**
-* 👥 Developed complete recruitment and applicant workflows
-* 📄 Implemented document management and Azure Blob Storage integration
-* 📅 Built interview scheduling and task management workflows
-* ⚡ Used parallel API execution and request cancellation for better performance
-* 🔎 Implemented server-side search, pagination and debounced filtering
-* 🚀 Took features from database design → API → frontend → production
-
-> **Production experience matters to me — I enjoy solving the problems that appear after an application has to actually work for real users.**
-
-## 🧠 AI / ML Projects
-
-### ⚡ Transformer Defect Detection
-
-Built an AI-powered computer vision system for **K-Electric** using:
-
-`YOLOv8` · `TensorFlow` · `OpenCV` · `FastAPI`
-
-The model detects **7 transformer defect classes** and provides real-time bounding-box inference for inspection workflows.
-
-### 🤖 AI-Powered LMS
-
-Built a full LMS using:
-
-`Django REST Framework` · `React` · `PostgreSQL` · `n8n`
-
-Integrated a natural-language-to-SQL chatbot allowing non-technical administrators to query LMS data using natural language.
-
-### 📊 AI Data Warehouse
-
-Engineered an analytics pipeline using:
-
-`PostgreSQL` · `MongoDB` · `ETL` · `Power BI` · `Gemini` · `RAG`
-
-Built a warehouse architecture for combining operational data with AI-powered natural-language analytics.
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,aws,azure,vercel" />
-</p>
-
-### AI & Automation
-
-`LangChain` · `LangGraph` · `RAG` · `YOLOv8` · `TensorFlow` · `n8n` · `MCP Servers`
-
-## 📈 Engineering Highlights
-
-| Area          | Experience                                     |
-| ------------- | ---------------------------------------------- |
-| 🏢 Enterprise | Production CRM / ATS for US-based clients      |
-| 🔐 Security   | JWT, RBAC, OAuth2                              |
-| ⚡ Performance | Parallel API execution, pagination, debouncing |
-| 🗄️ Data      | PostgreSQL, Prisma, MongoDB                    |
-| ☁️ Cloud      | Azure, AWS, Railway, Vercel                    |
-| 🤖 AI         | RAG, LLMs, YOLOv8, TensorFlow                  |
-| 🔄 Automation | n8n & AI-powered workflows                     |
-
-## 🎯 Currently Exploring
-
-* 🧠 Agentic AI
-* 🔗 LangGraph & LangChain
-* 🔌 MCP Servers
-* 📚 Advanced RAG architectures
-* ⚙️ AI-powered developer tools
-* ☁️ Scalable cloud architectures
-* 🔐 Application security & Bug Bounty
-
-## 🏅 Achievement
-
-**96.7th Percentile — National Skill Competency Test (NSCT)**
-Top **3.3% nationally**
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-
-**Full-Stack Development · Backend Engineering · AI Engineering · SaaS · Developer Tools**
-
-<p align="left">
-  <a href="https://www.syedsaads.dev">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/syed-saad-waqar-97167a258">💼 LinkedIn</a> ·
-  <a href="mailto:waqarsaad76@gmail.com">📧 Email</a>
-</p>
-
----
-
-<p align="center">
-  <i>Building products, solving problems, and learning something new every day.</i>
-</p>
+Based in **Karachi, Pakistan**. Interested in full-stack, backend and applied AI engineering opportunities where I can own useful features, investigate failures and ship maintainable software.
