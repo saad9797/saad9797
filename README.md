@@ -28,7 +28,6 @@ I build **React/TypeScript interfaces, Node.js and Python services, and PostgreS
 | [WhatsApp Sales Agent](https://github.com/saad9797/Whatsapp-Sales-Agent) | Multimodal Gemini agent, pgvector catalogue retrieval, structured actions and human handoff; asynchronous processing, idempotent webhooks and rate-limit backoff. |
 | [Hybrid RAG workflows](https://github.com/saad9797/CCP-NLP) | n8n workflows for Google Drive ingestion, Supabase pgvector retrieval, PostgreSQL querying and Gemini responses. |
 | [Transformer Health Index](https://github.com/saad9797/Transformer-Health-Dist) | Backend and frontend application code for transformer inspection and health assessment. |
-| [Contexa backend](https://github.com/saad9797/Contexa-Backend) · [frontend](https://github.com/saad9797/Contexa-Frontend) | Public development snapshots of the ingestion API and React interface. The live product has evolved beyond these snapshots. |
 | [AI data warehouse](https://github.com/saad9797/Edu-Hub) | PostgreSQL/MongoDB ETL, a star-schema warehouse, Power BI and natural-language analytics. |
 | [Folio document workspace](https://github.com/saad9797/Docs_Task) | Lab project using React, TypeScript, Express, Prisma and PostgreSQL: autosave, role-based sharing, sanitized imports and **41 automated tests**. [Live demo](https://docs-task.onrender.com/). |
 
